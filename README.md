@@ -32,13 +32,3 @@ Unit Test
 Running
 -----------
     $ python app.py
-----
-Get User timeline
------------
-* **URL:**
-URL
-
-    /users/{twitter_username}
-URL (example)
-
-    /users/{twitter_username}?limit=40
